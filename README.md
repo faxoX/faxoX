@@ -1,49 +1,30 @@
-<p align="center">
-  <img src="assets/header-v2.svg" width="100%" alt="fax, aka Finn. Two ASCII spider lilies swaying in the dark.">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-v3-dark.svg">
+  <img src="assets/header-v3-light.svg" width="100%" alt="fax, founder of Studio Mori">
+</picture>
 
-<br>
+About six years of code. I also do VFX in After Effects, model in Blender and build Roblox games.
 
-<p align="center">
-  I'm Finn, the founder of <a href="https://studiomori.ai">Studio Mori</a>.<br>
-  About six years of building things, mostly in code.<br>
-  These days also VFX and editing in After Effects, modelling in Blender, and making Roblox games.
-</p>
+### Studio Mori
 
-<br>
+<a href="https://studiomori.ai"><img src="assets/mori.png" width="92" align="right" alt="Studio Mori"></a>
 
-<p align="center">
-  <a href="https://studiomori.ai"><img src="assets/mori.png" width="104" alt="Studio Mori"></a>
-</p>
+An AI agent for your computer. One agent for all of your work.
 
-<h3 align="center">Studio Mori</h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/mori-typing-v3-dark.svg">
+  <img src="assets/mori-typing-v3-light.svg" alt="mori: plans it, builds it, checks it." height="40">
+</picture>
 
-<p align="center">
-  An AI agent for your computer. One agent for all of your work, free on Mac and Windows.
-</p>
+**Install:** `npx studio-mori`, or the download at [studiomori.ai/download](https://studiomori.ai/download)<br>
+**Runs on:** Mac, Windows, iPhone and Chrome<br>
+**Cost:** free on your own keys or local models, with plans for cloud models and heavier use<br>
+**Links:** [studiomori.ai](https://studiomori.ai) · [Docs](https://studiomori.ai/docs) · [@StudioMoriAI](https://x.com/StudioMoriAI)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/mori-typing-dark.svg">
-    <img src="assets/mori-typing-light.svg" alt="mori: plans it, builds it, checks it." height="40">
-  </picture>
-</p>
+### Vyridian
 
-<p align="center">
-  <a href="https://studiomori.ai">studiomori.ai</a>
-  &nbsp;·&nbsp;
-  <a href="https://x.com/StudioMoriAI">@StudioMoriAI</a>
-  &nbsp;·&nbsp;
-  <code>npx studio-mori</code>
-</p>
+Builds tools, systems, automations and compute for businesses. [vyridian.org](https://www.vyridian.org)
 
-<br>
+### Contact
 
-<p align="center">
-  <a href="https://x.com/fax000x">@fax000x</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:finn@studiomori.ai">finn@studiomori.ai</a>
-  &nbsp;·&nbsp;
-  <a href="https://faxo.dev">faxo.dev</a>
-</p>
-
+X [@fax000x](https://x.com/fax000x) · Discord `finyn` · [finn@studiomori.ai](mailto:finn@studiomori.ai) · [faxo.dev](https://faxo.dev)
