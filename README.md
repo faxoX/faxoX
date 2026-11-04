@@ -47,6 +47,3 @@
   <a href="https://faxo.dev">faxo.dev</a>
 </p>
 
-<p align="center">
-  <sub>Off the clock: Bleach, manga and figures, trading.</sub>
-</p>

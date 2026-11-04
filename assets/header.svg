@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 320" width="960" height="320" role="img" aria-labelledby="t">
-<title id="t">fax, aka Finn</title>
+<title id="t">fax</title>
 <defs>
 <radialGradient id="glow" cx="0.66" cy="0.4" r="0.42">
 <stop offset="0" stop-color="#ff4252" stop-opacity="0.10"/><stop offset="0.55" stop-color="#ff4252" stop-opacity="0.025"/><stop offset="1" stop-color="#ff4252" stop-opacity="0"/>
@@ -64,9 +64,9 @@ text{font-family:GM,ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-si
 <rect width="960" height="320" fill="url(#floor)"/>
 <rect width="960" height="320" fill="url(#left)"/>
 <g class="in"><text class="name" x="58" y="182">fax</text></g>
-<g class="in2"><text class="aka" x="64" y="222">aka <tspan>Finn</tspan></text></g>
+
 <rect class="cur" x="239" y="119" width="12" height="63" rx="1.5"/>
-<g class="in3"><circle class="dot" cx="67" cy="274" r="2.6"/><text class="foot" x="78" y="278">FOUNDER, STUDIO MORI</text></g>
+<g class="in3"><circle class="dot" cx="67" cy="236" r="2.6"/><text class="foot" x="78" y="240">FOUNDER, STUDIO MORI</text></g>
 </g>
 <rect x=".5" y=".5" width="959" height="319" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity=".08"/>
 </svg>
