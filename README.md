@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="fax, aka Finn. Two ASCII spider lilies swaying in the dark.">
+  <img src="assets/header-v2.svg" width="100%" alt="fax, aka Finn. Two ASCII spider lilies swaying in the dark.">
 </p>
 
 <br>
