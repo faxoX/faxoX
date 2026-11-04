@@ -47,10 +47,6 @@ text{font-family:GM,ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-si
 .dot{fill:#ff4252}
 .cur{fill:#ff4252;animation:blink 1.15s steps(1) infinite}
 @keyframes blink{0%{opacity:1}50%{opacity:0}}
-.in{animation:in 1.4s cubic-bezier(.2,.7,.2,1) both}
-.in2{animation:in 1.4s cubic-bezier(.2,.7,.2,1) .25s both}
-.in3{animation:in 1.4s cubic-bezier(.2,.7,.2,1) .5s both}
-@keyframes in{0%{opacity:0;transform:translateY(8px)}100%{opacity:1;transform:none}}
 @media (prefers-reduced-motion:reduce){*{animation:none!important}.sl{opacity:0}}
 </style>
 <g clip-path="url(#card)">
